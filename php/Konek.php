@@ -1,5 +1,5 @@
 <?php
-//Kalo pake laptop ubah 127.0.0.1 ke localhost
+//Kalo pake laptop ubah 127.0.0.1 ke localhost.
  $servername = "127.0 0.1";
  $dbname = "data_user";
  $username = "root";
